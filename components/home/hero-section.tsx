@@ -36,7 +36,7 @@ export function HeroSection() {
               className="mb-6 inline-flex items-center gap-2 rounded-full bg-primary/20 px-4 py-2 text-sm font-medium text-primary-foreground"
             >
               <Leaf className="h-4 w-4" />
-              100% Pure Vegetarian
+              Veg & Non-Veg
             </motion.div>
 
             {/* Logo/Brand */}

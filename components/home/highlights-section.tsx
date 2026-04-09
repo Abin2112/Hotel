@@ -7,10 +7,10 @@ import { useLanguage } from '@/lib/language-context';
 const features = [
   {
     icon: Leaf,
-    titleEn: 'Pure Vegetarian',
-    titleHi: 'शुद्ध शाकाहारी',
-    descEn: '100% vegetarian food with no compromise on taste',
-    descHi: 'स्वाद से कोई समझौता नहीं के साथ 100% शाकाहारी भोजन',
+    titleEn: 'Veg & Non-Veg',
+    titleHi: 'शाकाहारी और मांसाहारी',
+    descEn: 'Veg & Non-veg foods with no compromise on taste',
+    descHi: 'शाकाहारी और मांसाहारी भोजन, स्वाद से कोई समझौता नहीं',
     color: 'bg-dhaba-green',
   },
   {
